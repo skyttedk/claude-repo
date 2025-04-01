@@ -11,3 +11,4 @@ This is a sample repository to demonstrate GitHub API integration.
 - Example of repository creation
 - Branch management
 - File operations
+- Master as default branch
